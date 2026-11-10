@@ -1,0 +1,3 @@
+/home/francycoso2010/Documenti/Coding/fMidiKeyboard/build/_deps/vst3sdk-subbuild/CMakeFiles/vst3sdk-populate.dir
+/home/francycoso2010/Documenti/Coding/fMidiKeyboard/build/_deps/vst3sdk-subbuild/CMakeFiles/edit_cache.dir
+/home/francycoso2010/Documenti/Coding/fMidiKeyboard/build/_deps/vst3sdk-subbuild/CMakeFiles/rebuild_cache.dir

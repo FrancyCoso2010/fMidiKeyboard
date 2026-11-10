@@ -1,0 +1,10 @@
+Fontconfig error: Cannot load default config file: No such file: (null)
+Testo: font /home/francycoso2010/Documenti/Coding/fMidiKeyboard/build/assets/LiberationSans-Regular.ttf (atlas 1024x1024)
+Strumento interno: Rhodes (piano elettrico)
+Trovati 0 plugin VST3. Usa il pannello (S) per sceglierne uno.
+=== fMidiKeyboard ===
+Porte MIDI disponibili:
+  [0] Midi Through:Midi Through Port-0 14:0
+  [1] Recital Play:Recital Play MIDI 1 20:0
+Aperto: Recital Play:Recital Play MIDI 1 20:0
+Comandi: S=impostazioni  Y=sintetizzatore  O=plugin  I=strumento (Rhodes / pianoforte / SFZ)  E=editor  TAB=MIDI  H=aiuto  V=direzione  N=nomi  A=accordo  P=panic  F=schermo intero  Esc=esci

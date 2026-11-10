@@ -1,0 +1,3 @@
+/home/francycoso2010/Documenti/Coding/fMidiKeyboard/build/_deps/rtmidi_wrap-subbuild/CMakeFiles/rtmidi_wrap-populate.dir
+/home/francycoso2010/Documenti/Coding/fMidiKeyboard/build/_deps/rtmidi_wrap-subbuild/CMakeFiles/edit_cache.dir
+/home/francycoso2010/Documenti/Coding/fMidiKeyboard/build/_deps/rtmidi_wrap-subbuild/CMakeFiles/rebuild_cache.dir

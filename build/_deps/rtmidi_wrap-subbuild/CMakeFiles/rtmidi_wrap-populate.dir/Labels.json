@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/francycoso2010/Documenti/Coding/fMidiKeyboard/build/_deps/rtmidi_wrap-subbuild/CMakeFiles/rtmidi_wrap-populate"
+		},
+		{
+			"file" : "/home/francycoso2010/Documenti/Coding/fMidiKeyboard/build/_deps/rtmidi_wrap-subbuild/CMakeFiles/rtmidi_wrap-populate.rule"
+		},
+		{
+			"file" : "/home/francycoso2010/Documenti/Coding/fMidiKeyboard/build/_deps/rtmidi_wrap-subbuild/CMakeFiles/rtmidi_wrap-populate-complete.rule"
+		},
+		{
+			"file" : "/home/francycoso2010/Documenti/Coding/fMidiKeyboard/build/_deps/rtmidi_wrap-subbuild/rtmidi_wrap-populate-prefix/src/rtmidi_wrap-populate-stamp/rtmidi_wrap-populate-build.rule"
+		},
+		{
+			"file" : "/home/francycoso2010/Documenti/Coding/fMidiKeyboard/build/_deps/rtmidi_wrap-subbuild/rtmidi_wrap-populate-prefix/src/rtmidi_wrap-populate-stamp/rtmidi_wrap-populate-configure.rule"
+		},
+		{
+			"file" : "/home/francycoso2010/Documenti/Coding/fMidiKeyboard/build/_deps/rtmidi_wrap-subbuild/rtmidi_wrap-populate-prefix/src/rtmidi_wrap-populate-stamp/rtmidi_wrap-populate-download.rule"
+		},
+		{
+			"file" : "/home/francycoso2010/Documenti/Coding/fMidiKeyboard/build/_deps/rtmidi_wrap-subbuild/rtmidi_wrap-populate-prefix/src/rtmidi_wrap-populate-stamp/rtmidi_wrap-populate-install.rule"
+		},
+		{
+			"file" : "/home/francycoso2010/Documenti/Coding/fMidiKeyboard/build/_deps/rtmidi_wrap-subbuild/rtmidi_wrap-populate-prefix/src/rtmidi_wrap-populate-stamp/rtmidi_wrap-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/francycoso2010/Documenti/Coding/fMidiKeyboard/build/_deps/rtmidi_wrap-subbuild/rtmidi_wrap-populate-prefix/src/rtmidi_wrap-populate-stamp/rtmidi_wrap-populate-patch.rule"
+		},
+		{
+			"file" : "/home/francycoso2010/Documenti/Coding/fMidiKeyboard/build/_deps/rtmidi_wrap-subbuild/rtmidi_wrap-populate-prefix/src/rtmidi_wrap-populate-stamp/rtmidi_wrap-populate-test.rule"
+		},
+		{
+			"file" : "/home/francycoso2010/Documenti/Coding/fMidiKeyboard/build/_deps/rtmidi_wrap-subbuild/rtmidi_wrap-populate-prefix/src/rtmidi_wrap-populate-stamp/rtmidi_wrap-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"rtmidi_wrap-populate"
+		],
+		"name" : "rtmidi_wrap-populate"
+	}
+}

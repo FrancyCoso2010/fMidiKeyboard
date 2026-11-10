@@ -1,0 +1,14 @@
+# Target labels
+ vst3sdk-populate
+# Source files and their labels
+/home/francycoso2010/Documenti/Coding/fMidiKeyboard/build/_deps/vst3sdk-subbuild/CMakeFiles/vst3sdk-populate
+/home/francycoso2010/Documenti/Coding/fMidiKeyboard/build/_deps/vst3sdk-subbuild/CMakeFiles/vst3sdk-populate.rule
+/home/francycoso2010/Documenti/Coding/fMidiKeyboard/build/_deps/vst3sdk-subbuild/CMakeFiles/vst3sdk-populate-complete.rule
+/home/francycoso2010/Documenti/Coding/fMidiKeyboard/build/_deps/vst3sdk-subbuild/vst3sdk-populate-prefix/src/vst3sdk-populate-stamp/vst3sdk-populate-build.rule
+/home/francycoso2010/Documenti/Coding/fMidiKeyboard/build/_deps/vst3sdk-subbuild/vst3sdk-populate-prefix/src/vst3sdk-populate-stamp/vst3sdk-populate-configure.rule
+/home/francycoso2010/Documenti/Coding/fMidiKeyboard/build/_deps/vst3sdk-subbuild/vst3sdk-populate-prefix/src/vst3sdk-populate-stamp/vst3sdk-populate-download.rule
+/home/francycoso2010/Documenti/Coding/fMidiKeyboard/build/_deps/vst3sdk-subbuild/vst3sdk-populate-prefix/src/vst3sdk-populate-stamp/vst3sdk-populate-install.rule
+/home/francycoso2010/Documenti/Coding/fMidiKeyboard/build/_deps/vst3sdk-subbuild/vst3sdk-populate-prefix/src/vst3sdk-populate-stamp/vst3sdk-populate-mkdir.rule
+/home/francycoso2010/Documenti/Coding/fMidiKeyboard/build/_deps/vst3sdk-subbuild/vst3sdk-populate-prefix/src/vst3sdk-populate-stamp/vst3sdk-populate-patch.rule
+/home/francycoso2010/Documenti/Coding/fMidiKeyboard/build/_deps/vst3sdk-subbuild/vst3sdk-populate-prefix/src/vst3sdk-populate-stamp/vst3sdk-populate-test.rule
+/home/francycoso2010/Documenti/Coding/fMidiKeyboard/build/_deps/vst3sdk-subbuild/vst3sdk-populate-prefix/src/vst3sdk-populate-stamp/vst3sdk-populate-update.rule
