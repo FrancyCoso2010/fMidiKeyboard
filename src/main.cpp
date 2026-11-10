@@ -1059,7 +1059,10 @@ static void drawSynthEditor(SDL_Renderer* r, GfxBatch& batch, int ww, int wh,
 
 // ------------------------------------------------------------------- Main -----
 
-static const char* kVersion = "fMidiKeyboard 1.5";
+#ifndef FMK_VERSION
+#define FMK_VERSION "1.0"
+#endif
+static const char* kVersion = "fMidiKeyboard " FMK_VERSION;
 
 static void printHelp(const char* exe) {
     std::printf(

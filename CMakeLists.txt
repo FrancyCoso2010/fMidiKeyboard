@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.16)
-project(fMidiKeyboard LANGUAGES CXX)
+project(fMidiKeyboard VERSION 1.0 LANGUAGES CXX)
 
 set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
@@ -188,6 +188,8 @@ endif()
 
 target_include_directories(fMidiKeyboard PRIVATE ${CMAKE_CURRENT_SOURCE_DIR}/third_party)
 
+target_compile_definitions(fMidiKeyboard PRIVATE FMK_VERSION="${PROJECT_VERSION}")
+
 target_link_libraries(fMidiKeyboard PRIVATE
     ${SDL2_LINK}
     ${RTMIDI_LINK}
@@ -240,3 +242,18 @@ add_custom_command(TARGET fMidiKeyboard POST_BUILD
 
 install(TARGETS fMidiKeyboard RUNTIME DESTINATION bin)
 install(DIRECTORY assets DESTINATION bin)
+
+set(CPACK_PACKAGE_NAME "fMidiKeyboard")
+set(CPACK_PACKAGE_VENDOR "FrancyCoso2010")
+set(CPACK_PACKAGE_VERSION "${PROJECT_VERSION}")
+set(CPACK_PACKAGE_DESCRIPTION_SUMMARY "Visualizzatore MIDI per pianoforte con synth e VST3")
+set(CPACK_PACKAGE_INSTALL_DIRECTORY "fMidiKeyboard")
+set(CPACK_PACKAGE_FILE_NAME "fMidiKeyboard-${PROJECT_VERSION}-${CMAKE_SYSTEM_NAME}-${CMAKE_SYSTEM_PROCESSOR}")
+
+if(WIN32)
+    set(CPACK_GENERATOR "ZIP")
+else()
+    set(CPACK_GENERATOR "TGZ;ZIP")
+endif()
+
+include(CPack)

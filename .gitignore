@@ -1,0 +1,7 @@
+# Cartella di build e pacchetti generati
+/build/
+*.zip
+*.tar.gz
+
+# Log e file temporanei
+*.log
